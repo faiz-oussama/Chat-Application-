@@ -1,5 +1,5 @@
 # Real Time Chat Application
-<img>src="https://img.freepik.com/free-vector/telecommuting-online-concept_23-2148486121.jpg?t=st=1711051969~exp=1711055569~hmac=933837a6d5d74990c6473243acfec4f81b559cdb149f4e4fd7678d740fc74405&w=740"</img>
+![3646248](https://github.com/faiz-oussama/Chat-Application-/assets/102983085/2b23093c-da3a-45b6-a7be-f63775ced7eb)
 Welcome to the Real Time Chat Application repository! This project is a sophisticated Chat Application built with C++ and the QT framework, seamlessly integrating TCP/IP protocol for intuitive communication via a stylish GUI.
 
 <h2>Features</h2>
