@@ -1,5 +1,5 @@
 # Real Time Chat Application
-![3646248](https://github.com/faiz-oussama/Chat-Application-/assets/102983085/2b23093c-da3a-45b6-a7be-f63775ced7eb)
+![56190](https://github.com/faiz-oussama/Chat-Application-/assets/102983085/d7d9cba5-53ee-4794-843a-d9eed7ce033c)
 Welcome to the Real Time Chat Application repository! This project is a sophisticated Chat Application built with C++ and the QT framework, seamlessly integrating TCP/IP protocol for intuitive communication via a stylish GUI.
 
 <h2>Features</h2>
