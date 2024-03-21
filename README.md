@@ -30,4 +30,4 @@ Enjoy seamless communication with friends and colleagues!
 <h2>Acknowledgements</h2> 
 Special thanks to the creators of the QT framework for providing powerful tools for building graphical user interfaces.
 
-Feel free to reach out with any questions, suggestions, or issues you may encounter. Happy chatting! 🎉
+Feel free to reach out with any questions, suggestions, or issues you may encounter. Happy chatting!
